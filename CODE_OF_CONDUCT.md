@@ -1,11 +1,5 @@
 # Contributor Covenant Code of Conduct
 
-**NOTE: PLEASE UPDATE THIS FOR YOUR OWN REPO**
-
-> Code of Conduct, commonly abbreviated as “CoC”, is a set of rules outlining the social norms, rules, & responsibilities of an individual project, party or organization.
-
-*This is an example of a Code of Conduct (CoC) provided as a starting point for an open source project. When reusing this repo, you should edit and adapt this to meet the needs of your specific team. If you want to apply an institutional CoC to a project repo make sure that all members involved are employees of the same organisation, such as for the Turing. When external members are involved, you might want to use a hybrid approach, as used by the [Open Research Community Management Team](https://github.com/alan-turing-institute/open-research-community-management/blob/main/CODE_OF_CONDUCT.md#122-if-the-breach-is-considered-outside-the-scope-of-this-code-of-conduct). There are many more examples to choose from, so please also check other sources.*
-
 This Code of Conduct document outlines our expectations for 
 participants within the team as well as this online repository (project).
 We also provide steps to reporting any concern, uncomfortable situation 
@@ -13,15 +7,9 @@ or unacceptable behaviour by other participants.
 We are committed to providing a welcoming, collaborative and inspiring experience 
 for all and expect our code of conduct to be honoured.
 
-<!--Delete these lines when reusing this repository-->
-The Code of Conduct used in this document is selected from the options provided by GitHub that reuses Contributor Covenant's version (add a new file -> name that `CODE_OF_CONDUCT.md` -> click on 'Choose a code of conduct template' -> select from the options that best suits the requirements in your project).
-<img width="1379" alt="image" src="https://user-images.githubusercontent.com/5370471/160671868-b936eaea-355e-45e2-b188-a9221567056a.png">
-
 We have further adopted the language and content that reflects our values and needs in the project.
-To learn more about why we recommend creating a CODE_OF_CONDUCT.md file, please read the [Participation Guidelines](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-participation.html) chapter in *The Turing Way* Guide for Project Design.
-It is recommended to select and adapt a well established Code of Conduct. Many openly developed projects have a Code of Conduct in place that often is openly licensed and can be re-used and adapted for your project. 
+
 *The Turing Way* [Code of Conduct](https://github.com/alan-turing-institute/the-turing-way/blob/main/CODE_OF_CONDUCT.md) is one example of a Code of Conduct built on various existing ones and can be adapted further.
-<!--Delete these lines when reusing this repository-->
 
 ### Diversity Statement
 
