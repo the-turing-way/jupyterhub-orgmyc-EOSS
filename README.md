@@ -1,4 +1,4 @@
-# The Turing Way, JupyterHub & Organisational Mcycology collaboration on CZI Essential Open Source Software Diversity & Inclusion Grant
+# The Turing Way, JupyterHub & Organisational Mycology collaboration on CZI Essential Open Source Software Diversity & Inclusion Grant
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
