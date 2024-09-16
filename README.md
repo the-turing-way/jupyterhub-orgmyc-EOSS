@@ -15,11 +15,6 @@ This repository follows the recommendations and guidance provided in *[The Turin
 
 You can read more via the Statement of Work here: XXXX 
 
-## Vision and Mission
-
-- **Vision:** One sentence capturing the project's overarching vision.
-- **Mission:** One sentence defining the project's goals and target audience.
-
 ## About
 
 The JupyterHub community is looking to enhance their capacity building, community growth and development. 
