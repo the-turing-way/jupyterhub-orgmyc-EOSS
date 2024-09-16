@@ -3,8 +3,6 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-*This is a template for setting up a research or data science project online, such as on GitHub.*
-
 ## About this Repository
 
 This repository is for openly tracking the work of The Turing Way, JupyerHub & Orgnisational Mycology during the CZI EOSS Diversity & Inclusion grant. 
