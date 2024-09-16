@@ -25,6 +25,7 @@ This work builds on Phase 1 of the grant, delivered by Sarah Gibson. More inform
 
 ## Roadmap & Milestones
 
+- **Scope of Work:** [https://docs.google.com/document/d/1M2kfwvT7KHfgWd2Qph3BIM7seyrb8Lt23cVE_1HzvMw/edit](https://docs.google.com/document/d/1M2kfwvT7KHfgWd2Qph3BIM7seyrb8Lt23cVE_1HzvMw/edit)  
 - **Outcomes:**
     - “Voices of the JupyterHub Community” Research and Report
     - Leadership Workshops
