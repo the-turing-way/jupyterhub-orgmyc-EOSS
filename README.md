@@ -1,4 +1,4 @@
-# Template for setting up reproducible projects
+# The Turing Way, JupyterHub & Organisational Mcycology collaboration on CZI Essential Open Source Software Diversity & Inclusion Grant
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
@@ -7,41 +7,15 @@
 
 ## About this Repository
 
+This repository is for openly tracking the work of The Turing Way, JupyerHub & Orgnisational Mycology during the CZI EOSS Diversity & Inclusion grant. 
+You can read more on this in the interim report deliver to CZI in 2023: https://docs.google.com/document/d/1pSU9kG_XDOSTF4JcbIt18hep1rCHIjuUYuYi5mg0q-0/edit?usp=sharing
+
 This repository operationalises The Turing Way recommendations for structuring project repositories to support reproducibility in data science projects.
 This repository includes files and directories recommended for enabling reproducibility and collaboration in a project, as well as sharing of research objects.
 
 This repository follows the recommendations and guidance provided in *[The Turing Way](https://the-turing-way.netlify.app/welcome)* handbook to data science.
-When reusing this repository, please update the information on your README page with information about your project.
 
-### Using this Repository
-
-![screenshot with arrows and instructions describing how to use this repository template to create a project repo. The description provided in the title.](./assets/use-this-repo.png)
-
-**Image Description:**
-
-Your streamlined project setup is just three steps away:
-* Step 1: Click 'Use this template' on the top right-hand side. Follow it up by clicking 'Create a new repository.'
-* Step 2: In the subsequent window, set the 'owner' (yourself or a GitHub organisation) and give your project repository a descriptive name.
-* Step 3: Finalise by clicking 'Create repository' at the bottom right-hand side.
-
-After creating your own copy of this repository, you can edit or delete existing files and folders, or add new ones as per your needs.
-
-<!--If reusing this repository, delete this section -->
-## About README
-
-On an online repository, such as GitHub, the project overview page is named ‘README’ which is equivalent to the main page of a website.
-README page should describe the project -- what is the purpose of the project, who is involved, how to collaborate and where to find key resources.
-
-To learn more about how to create a README.md file, please read the [Landing Page - README File](https://the-turing-way.netlify.app/project-design/project-repo/project-repo-readme.html) chapter in The Turing Way Guide for Project Design.
-
-When reusing, you can delete most content written here, and use this MarkDown template to add content about your project:
-
-```
-# Project Quick Start
-
-*Add Badges/GitHub shields, which are clickable buttons that provide concise actions related to the project.*
-
-*A sentence summarising what to expect from this repository*  
+You can read more via the Statement of Work here: XXXX 
 
 ## Vision and Mission
 
@@ -50,28 +24,39 @@ When reusing, you can delete most content written here, and use this MarkDown te
 
 ## About
 
-Motivation and background in a nutshell.
+The JupyterHub community is looking to enhance their capacity building, community growth and development. 
+They are collaborating with The Turing Way project at the Alan Turing Institute to coordinate and generalise learnings across open source communities of practice. 
+The work from Organizational Mycology is meant to support these efforts by 1) helping to develop a community engagement strategy by identifying blockers to contributor participation, 2) supporting the refresh of the Team Compass, 3) working on training for new contributors, and 4) embedding inclusive practices in the JupyterHub community. 
+This work builds on Phase 1 of the grant, delivered by Sarah Gibson. More information on the first phase of the grant can be found here: [https://docs.google.com/document/d/1pSU9kG_XDOSTF4JcbIt18hep1rCHIjuUYuYi5mg0q-0/edit?usp=sharing](https://docs.google.com/document/d/1pSU9kG_XDOSTF4JcbIt18hep1rCHIjuUYuYi5mg0q-0/edit?usp=sharing)
+
 
 ## Roadmap & Milestones
 
-- **Goals:** Clear overview of overarching and short-term goals.
-- **Outcomes:** Description of expected results and deliverables.
+- **Outcomes:**
+    - “Voices of the JupyterHub Community” Research and Report
+    - Leadership Workshops
+    - Develop Four Community Based Initiatives
+
+- **Roadmap:**
+
 
 ## The Team
 
-- **Members:** List of team members and their roles in the project.
-- **Roles & Responsibilities:** [Team Directory](link-to-directory) outlines roles, responsibilities and their ways of working.
+### Organizational Mycology  
+Jonah Duckles, Beth Duckles, Dan Sholler
+### The Turing Way
+Kirstie Whitaker, Arielle Bennett, Léllé Demertzi
+### JupyterHub
+Min, Chris Holdgraf
 
 ## Contributing
 
-- **Guidelines:** [Contribution Guidelines](link-to-guidelines) for contributors.
-- **Code of Conduct:** [Code of Conduct](link-to-coc) ensures a respectful project environment.
-- **Resource Plans:** Details on available resources and recommended practices for the project team.
+- **Guidelines:** [Contribution Guidelines](link-to-guidelines) for contributors **COMING SOON**
+- **Code of Conduct:** [Code of Conduct](link-to-coc) ensures a respectful project environment. 
+- **Resource Plans:** Details on available resources and recommended practices for the project team. **COMING SOON**
 
 ## Licensing
-
-Clearly define the license under which the repository's work is shared.
-(Example: This project is licensed under the MIT License - see the LICENSE.md file for details.)
+This repository is licensed under a [Creative Commons Atrtribution 4.0 License](https://creativecommons.org/licenses/by/4.0/). 
 
 ## Citing & Acknowledgement
 
@@ -80,12 +65,7 @@ Clearly define the license under which the repository's work is shared.
 
 ## Contact
 
-- **Reach Out:** Contact details for questions, feedback, or ideas.
-
-```
-
-
-<!--If reusing this repository, delete this section -->
+- **Reach Out:** Contact Arielle Bennett [abennett@turing.ac.uk](mailto:abennett@turing.ac.uk) details for questions, feedback, or ideas.
 
 ## Repo Structure
 
@@ -96,43 +76,22 @@ Inspired by [Cookie Cutter Data Science](https://github.com/drivendata/cookiecut
 ├── README.md          <- The top-level README for users of this project.
 ├── CODE_OF_CONDUCT.md <- Guidelines for users and contributors of the project.
 ├── CONTRIBUTING.md    <- Information on how to contribute to the project.
-├── data
-│   ├── processed      <- The final, canonical data sets for modeling.
-│   └── raw            <- The original, immutable data dump.
 │
 ├── docs               <- A default Sphinx project; see sphinx-doc.org for details
-│
-├── models             <- Trained and serialized models, model predictions, or model summaries
-│
-├── notebooks          <- Jupyter notebooks. The naming convention is a number (for ordering),
-│                         the creator's initials, and a short `-` delimited description, e.g.
-│                         `1.0-jqp-initial-data-exploration`.
 │
 ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
 │   └── figures        <- Generated graphics and figures to be used in reporting
 │
 ├── project_management <- Meeting notes and other project planning resources
-│
-├── src                <- Source code for use in this project.
 │   │
-│   ├── data           <- Scripts to download or generate data
-│   │   └── make_dataset.py
 │   │
-│   ├── models         <- Scripts to train models and then use trained models to make
-│   │   │                 predictions
-│   │   ├── predict_model.py
-│   │   └── train_model.py
-│   │
-│   └── visualisation  <- Scripts to create exploratory and results-oriented visualisations
-│       └── visualise.py
 └──
 ```
 
 **Maintainers**
 
-This repository has been set up and maintained by Malvika Sharan to support the work of Open Research Community Management and Research Application Management teams under the Tools, Practices and Systems Research Programme at The Alan Turing Institute.
-
-As an open source repository, anyone beyond these teams is very welcome to reuse this template for setting up their projects.
+This repository is maintained by Arielle Bennett and Léllé Demertzi at The Alan Turing Institute. 
+The original template was set up and maintained by Malvika Sharan to support the work of Open Research Community Management and Research Application Management teams under the Tools, Practices and Systems Research Programme at The Alan Turing Institute.
 
 *Please create [an issue](../../issues) to share references or ideas related to the development of this project.*
 
@@ -176,8 +135,7 @@ licensor endorses you or your use and with no additional restrictions.
 🤝 Acknowledgement
 ---
 
-This repository has been created for anyone to reuse -- please attribute us as:
-> This repository uses the template created and maintained by *The Turing Way* team members and shared under CC-BY 4.0 for reuse: https://github.com/alan-turing-institute/reproducible-project-template.
+This repository uses the template created and maintained by *The Turing Way* team members and shared under CC-BY 4.0 for reuse: https://github.com/alan-turing-institute/reproducible-project-template.
 
 ## Contributors ✨
 
