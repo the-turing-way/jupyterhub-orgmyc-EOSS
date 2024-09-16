@@ -107,14 +107,9 @@ decisions when appropriate.
 
 If you experience or witness unacceptable behaviour, or have any other concerns, please report it 
 by contacting the Team Lead.
-For **this** template repo related communications, please email Malvika Sharan (msharan@turing.ac.uk).
+For **this** repo related communications, please email Arielle Bennett [abennett@turing.ac.uk](mailto:abennett@turing.ac.uk).
 
-**When reusing this repo please replace information by adding NAME AND CONTACT INFORMATION appropriate for your project.**. 
-
-To report an issue involving the team lead, please email directly to the Programme Lead.
-For **this** template repo related communications, please email Kirstie Whitaker (kwhitaker@turing.ac.uk).
-
-**When reusing this repo please replace information by adding NAME AND CONTACT INFORMATION appropriate for your project.**. 
+To report an issue involving the team lead, please email the Programme Director Kirstie Whitaker (kwhitaker@turing.ac.uk).
 
 In your report please include:
 
