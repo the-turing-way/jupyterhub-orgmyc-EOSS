@@ -41,7 +41,7 @@ Jonah Duckles, Beth Duckles, Dan Sholler
 ### The Turing Way
 Kirstie Whitaker, Arielle Bennett, Léllé Demertzi
 ### JupyterHub
-Min, Chris Holdgraf
+Min Ragan-Kelley, Chris Holdgraf
 
 ## Contributing
 
