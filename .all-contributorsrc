@@ -15,6 +15,18 @@
         "doc",
         "review"
       ]
+    },
+    {
+      "login": "KirstieJane",
+      "name": "Kirstie Whitaker",
+      "avatar_url": "https://avatars.githubusercontent.com/u/3626306?v=4",
+      "profile": "https://github.com/KirstieJane",
+      "contributions": [
+        "ideas",
+        "eventOrganizing",
+        "projectManagement",
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,
