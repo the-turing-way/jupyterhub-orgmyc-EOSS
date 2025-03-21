@@ -15,6 +15,20 @@
         "doc",
         "review"
       ]
+    },
+    {
+      "login": "dsholler",
+      "name": "Dan Sholler",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29414208?v=4",
+      "profile": "https://github.com/dsholler",
+      "contributions": [
+        "ideas",
+        "doc",
+        "content",
+        "eventOrganizing",
+        "research",
+        "userTesting"
+      ]
     }
   ],
   "contributorsPerLine": 7,
