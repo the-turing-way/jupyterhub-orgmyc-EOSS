@@ -27,6 +27,48 @@
         "projectManagement",
         "doc"
       ]
+    },
+    {        
+      "login": "dsholler",
+      "name": "Dan Sholler",
+      "avatar_url": "https://avatars.githubusercontent.com/u/29414208?v=4",
+      "profile": "https://github.com/dsholler",
+  "contributions": [
+        "ideas",
+        "doc",
+        "content",
+        "eventOrganizing",
+        "research",
+        "userTesting"
+      ]
+    },
+    { 
+      "login": "jduckles",
+      "name": "Jonah Duckles",
+      "avatar_url": "https://avatars.githubusercontent.com/u/119403?v=4",
+      "profile": "https://jduck.net",
+ "contributions": [
+        "ideas",
+        "doc",
+        "content",
+        "eventOrganizing",
+        "research",
+        "userTesting"
+      ]
+    },
+    {
+      "login": "bduckles",
+      "name": "Beth Duckles",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6986662?v=4",
+      "profile": "http://bethduckles.com",
+      "contributions": [
+        "ideas",
+        "doc",
+        "content",
+        "eventOrganizing",
+        "research",
+        "userTesting"
+      ]
     }
   ],
   "contributorsPerLine": 7,
