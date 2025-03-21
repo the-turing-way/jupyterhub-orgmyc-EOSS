@@ -1,6 +1,6 @@
 # The Turing Way, JupyterHub & Organisational Mycology collaboration on CZI Essential Open Source Software Diversity & Inclusion Grant
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## About this Repository
@@ -124,6 +124,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Arielle-Bennett"><img src="https://avatars.githubusercontent.com/u/74651964?v=4?s=100" width="100px;" alt="Arielle-Bennett"/><br /><sub><b>Arielle-Bennett</b></sub></a><br /><a href="#ideas-Arielle-Bennett" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/the-turing-way/jupyterhub-orgmyc-EOSS/commits?author=Arielle-Bennett" title="Documentation">📖</a> <a href="https://github.com/the-turing-way/jupyterhub-orgmyc-EOSS/pulls?q=is%3Apr+reviewed-by%3AArielle-Bennett" title="Reviewed Pull Requests">👀</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/dsholler"><img src="https://avatars.githubusercontent.com/u/29414208?v=4?s=100" width="100px;" alt="Dan Sholler"/><br /><sub><b>Dan Sholler</b></sub></a><br /><a href="#ideas-dsholler" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/the-turing-way/jupyterhub-orgmyc-EOSS/commits?author=dsholler" title="Documentation">📖</a> <a href="#content-dsholler" title="Content">🖋</a> <a href="#eventOrganizing-dsholler" title="Event Organizing">📋</a> <a href="#research-dsholler" title="Research">🔬</a> <a href="#userTesting-dsholler" title="User Testing">📓</a></td>
     </tr>
   </tbody>
 </table>
