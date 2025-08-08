@@ -30,12 +30,12 @@ jobs:
           echo "date=$(.github/wednesday.py ${{ matrix.wednesday }})" >> "$GITHUB_OUTPUT"
 
       - name: Create issue for meeting this week 
-        # Skip this step if there is no Thursday, i.e. only four Thursdays in a month
+        # The next line skips the issue creation step if there is no Wednesday, i.e. only four Wednesdays in a month
         if: ${{ steps.target-date.outputs.date != '' }}
         id: create-innovation
         uses: JasonEtco/create-an-issue@v2
         with:
-          filename: .github/meeting-template.md
+          filename: .github/weekly-meeting.md
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           DATE: ${{ steps.target-date.outputs.date }}
